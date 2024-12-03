@@ -1,3 +1,4 @@
 # Natours Application
 
-Built using MERN 
+Built using NodeJS ,MongoDB , Express
+
